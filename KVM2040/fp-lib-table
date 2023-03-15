@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TS3DV642")(type "KiCad")(uri "${KIPRJMOD}/Library/ul_TS3DV642A0RUAR/KiCAD/2023-03-15_01-32-42/footprints.pretty")(options "")(descr ""))
+  (lib (name "TMUXHS221")(type "KiCad")(uri "${KIPRJMOD}/Library/ul_PTMUXHS221NKGR/KiCAD/2023-03-15_01-51-11/footprints.pretty")(options "")(descr ""))
+)
