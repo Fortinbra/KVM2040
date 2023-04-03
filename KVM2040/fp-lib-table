@@ -11,4 +11,5 @@
   (lib (name "USB4056")(type "KiCad")(uri "${KIPRJMOD}/Library/ul_USB4056-03-A/KiCAD/2023-04-02_22-25-39/footprints.pretty")(options "")(descr ""))
   (lib (name "TPS2561")(type "KiCad")(uri "${KIPRJMOD}/Library/ul_TPS2561ADRCR/KiCAD/2023-04-02_23-16-54/footprints.pretty")(options "")(descr ""))
   (lib (name "TMUXHS4212")(type "KiCad")(uri "${KIPRJMOD}/Library/ul_XTMUXHS4212RKSR/KiCAD/2023-04-02_23-36-03/footprints.pretty")(options "")(descr ""))
+  (lib (name "KUSBX-BS1N9")(type "KiCad")(uri "${KIPRJMOD}/Library/ul_KUSBX-BS1N9-1-BL30/KiCAD/2023-04-03_02-32-54/footprints.pretty")(options "")(descr ""))
 )
